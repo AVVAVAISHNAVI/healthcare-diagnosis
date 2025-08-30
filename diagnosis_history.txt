@@ -102,3 +102,4 @@ Symptoms: maya
 Name: vaish, Age: 21
 Symptoms: bodypains, cold
 
+
